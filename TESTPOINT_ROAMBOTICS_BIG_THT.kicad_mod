@@ -1,0 +1,10 @@
+(module TESTPOINT_ROAMBOTICS_BIG_THT (layer F.Cu) (tedit 5C816F58)
+  (fp_text reference "" (at -0.92 -2.89) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_text value "" (at 2.9889 0.0736) (layer B.SilkS) hide
+    (effects (font (size 0.7125 0.7125) (thickness 0.057)) (justify right top mirror))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 0.95) (layers *.Cu *.Mask)
+    (solder_mask_margin 0.0508))
+)
